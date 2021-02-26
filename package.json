@@ -1,0 +1,31 @@
+{
+  "name": "htmlpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.0.0",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sourcemaps": "^3.0.0"
+  },
+  "scripts": {
+    "test": "Gulp in html task"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubh-Shukla1021/HTMLtask.git"
+  },
+  "keywords": [
+    "Awesome"
+  ],
+  "author": "Shubh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubh-Shukla1021/HTMLtask/issues"
+  },
+  "homepage": "https://github.com/Shubh-Shukla1021/HTMLtask#readme"
+}
